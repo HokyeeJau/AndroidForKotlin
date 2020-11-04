@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">2020_2021_exp2</string>
+    <string name="equation">Equation</string>
+    <string name="clear">CE</string>
+    <string name="delete">C</string>
+    <string name="multiply">×</string>
+    <string name="subtract">÷</string>
+    <string name="add">+</string>
+    <string name="minus">−</string>
+    <string name="point">.</string>
+    <string name="title">Calculator</string>
+    <string name="square_root">√</string>
+    <string name="equal">=</string>
+</resources>

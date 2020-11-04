@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginSimulation</string>
+    <string-array name="user_list">
+        <item>个人用户</item>
+        <item>企业用户</item>
+    </string-array>
+</resources>
